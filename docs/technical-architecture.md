@@ -277,7 +277,7 @@ beyond reading the file.
 | Value formatting | Faithful port of `script.py`'s `cell()`, no special-casing | Matches the reference output exactly; monetary columns happen to be stored as text and pass through verbatim. Special-casing "money" columns was considered and rejected as unnecessary complexity that would diverge from the contract. |
 | Date handling | Read `Date` via ExcelJS, format from **UTC** fields | ExcelJS builds date cells on a UTC epoch base, so the Excel wall-clock date lands in the `getUTC*` fields. Using UTC getters makes output independent of the runner's timezone; a naive `getMonth()`/`toISOString()` can shift the date by a day. |
 | Component structure | UI directly in the root `App` component; router unused | Single-purpose tool; a second component and routing would be premature. Logic lives in a pure core module regardless, so the component staying small costs nothing. |
-| ExcelJS import path | Explicit browser build (`exceljs/dist/exceljs.min.js`) | The package's default entry targets Node and pulls `stream`/`fs`-style deps that the esbuild builder cannot resolve. `allowedCommonJsDependencies` is set and the initial-bundle budget is raised as needed (~300 kB gzip). |
+| ExcelJS import path | Explicit browser build (`exceljs/dist/exceljs.min.js`) | The package's default entry targets Node and pulls `stream`/`fs`-style deps that the esbuild builder cannot resolve. `allowedCommonJsDependencies` lists that path, and the production `initial` budget is raised to 1.5 MB warning / 2 MB error — ExcelJS is ~1.15 MB raw but ~275 kB over the wire, and the budget measures raw size. |
 | Test fixture location | Read straight from `docs/` | The reference `.xlsx` and `.xml` already live there; duplicating them into a fixtures folder would create a second source of truth that could drift. |
 
 ## Security & Compliance
@@ -451,7 +451,8 @@ src/
         │                            #   failures as ConverterError
         ├── converter.service.spec.ts
         ├── converter-error.ts       # ConverterError class + ConverterErrorCode union
-        └── exceljs.d.ts             # Type shim for the explicit browser-build import
+        └── exceljs-dist.d.ts        # Type shim for the explicit browser-build import
+
 
 docs/
 ├── script.py                          # Reference implementation (field mapping guide)
