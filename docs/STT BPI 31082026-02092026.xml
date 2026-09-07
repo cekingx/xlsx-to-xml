@@ -1,0 +1,2391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TaxInvoiceBulk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="TaxInvoice.xsd">
+  <TIN>1000000006727026</TIN>
+  <ListOfTaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-01</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00007.270826.91 | 2026-09-01 | BPIMT02 | 13788064</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5101036907790001</BuyerDocumentNumber>
+      <BuyerName>NI MADE SARIASIH</BuyerName>
+      <BuyerAdress>PENGERAGOAN, PEKUTATAN</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>15990.99</Price>
+          <Qty>3</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>47972.97</TaxBase>
+          <OtherTaxBase>43975.23</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>5277.03</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-08-31</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00001.290826.91 | 2026-08-31 | BPIGT01 | 13788071</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5103025407870003</BuyerDocumentNumber>
+      <BuyerName>NI PUTU PUTRI SANTINI</BuyerName>
+      <BuyerAdress>JL TUNJUNG GG12 BR TAMBAK SARI KAPAL</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0021</Unit>
+          <Price>383783.78</Price>
+          <Qty>1</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>383783.78</TaxBase>
+          <OtherTaxBase>351801.80</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>42216.22</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-CS-001 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>1171.17</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>58558.56</TaxBase>
+          <OtherTaxBase>53678.68</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>6441.44</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 250 S (TM) - 48 PACK</Name>
+          <Unit>UM.0022</Unit>
+          <Price>6756.76</Price>
+          <Qty>12</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>81081.07</TaxBase>
+          <OtherTaxBase>74324.32</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>8918.92</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-01</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00001.310826.91 | 2026-09-01 | BPIMT02 | 13788072</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5171027101700001</BuyerDocumentNumber>
+      <BuyerName>Agung Dwijayanti</BuyerName>
+      <BuyerAdress>Jl. Wr. Supratman no .179</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>M2000-KOREK MMT001 REFILLABLE BBQ 1 Karton Isi 4 Box X 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>27657.66</Price>
+          <Qty>6</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>165945.95</TaxBase>
+          <OtherTaxBase>152117.12</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>18254.05</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-01</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00009.310826.91 | 2026-09-01 | BPIMT01 | 513561</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0027872712904000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>PT GLOBAL RETAILINDO PRATAMA</BuyerName>
+      <BuyerAdress>JL KEDIRI, 36 A, TUBAN, KUTA, KAB. BADUNG, BALI, 80361</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0027872712904000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>4500.00</Price>
+          <Qty>2750</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>12375000.00</TaxBase>
+          <OtherTaxBase>11343750.00</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>1361250.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>5000.00</Price>
+          <Qty>3500</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>17500000.00</TaxBase>
+          <OtherTaxBase>16041666.67</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>1925000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000 MN-942 MBL KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>5500.00</Price>
+          <Qty>1400</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>7700000.00</TaxBase>
+          <OtherTaxBase>7058333.33</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>847000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00002.310826.91 | 2026-09-02 | BPIMT02 | 13788074</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5171016101040004</BuyerDocumentNumber>
+      <BuyerName>PUTU CLARA ALDAMA FRIDAYANTI</BuyerName>
+      <BuyerAdress>JL.P.GALANG GG. PASUNGNO.7,BR/LINK.GUNUNG</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>16666.67</Price>
+          <Qty>12</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>200000.00</TaxBase>
+          <OtherTaxBase>183333.33</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>22000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-01</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00003.310826.91 | 2026-09-01 | BPIMT02 | 13788075</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5171027112730011</BuyerDocumentNumber>
+      <BuyerName>NI NYOMAN SUDIARTINI</BuyerName>
+      <BuyerAdress>PENATIH , DENPASAR TIMUR</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 200 S (G) - 48 PACK</Name>
+          <Unit>UM.0022</Unit>
+          <Price>5405.41</Price>
+          <Qty>24</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>129729.73</TaxBase>
+          <OtherTaxBase>118918.92</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>14270.27</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 250 S (TM) - 48 PACK</Name>
+          <Unit>UM.0022</Unit>
+          <Price>6306.31</Price>
+          <Qty>24</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>151351.35</TaxBase>
+          <OtherTaxBase>138738.74</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>16648.65</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-01</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00004.310826.91 | 2026-09-01 | BPIGT01 | 13788076</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5171024806840002</BuyerDocumentNumber>
+      <BuyerName>NI PUTU SRI YUDIANTARI</BuyerName>
+      <BuyerAdress>BR. PEREAN</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0021</Unit>
+          <Price>383783.78</Price>
+          <Qty>1</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>383783.78</TaxBase>
+          <OtherTaxBase>351801.80</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>42216.22</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-08-31</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00005.310826.91 | 2026-08-31 | BPIMT01 | 13788077</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5103066109740008</BuyerDocumentNumber>
+      <BuyerName>NI MADE RAI DARMAYANTI</BuyerName>
+      <BuyerAdress>LINGK.JAMBE</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 250 S (TM) - 48 PACK</Name>
+          <Unit>UM.0022</Unit>
+          <Price>6306.31</Price>
+          <Qty>10</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>63063.06</TaxBase>
+          <OtherTaxBase>57807.81</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>6936.94</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-08-31</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00006.310826.91 | 2026-08-31 | BPIMT01 | 13788078</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5171015906730006</BuyerDocumentNumber>
+      <BuyerName>NI WAYAN SUARMINI</BuyerName>
+      <BuyerAdress>JL.TRIJATA NO 51 DPS DENPASAR UTARA</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 200 S (G) - 48 PACK</Name>
+          <Unit>UM.0022</Unit>
+          <Price>5405.41</Price>
+          <Qty>12</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>64864.86</TaxBase>
+          <OtherTaxBase>59459.46</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>7135.14</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-01</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00007.310826.91 | 2026-09-01 | BPIGT01 | 13788079</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5103023010710008</BuyerDocumentNumber>
+      <BuyerName>I MADE OKA YASTAKI</BuyerName>
+      <BuyerAdress>BR PENGIASAN MENGWI</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>15990.99</Price>
+          <Qty>6</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>95945.95</TaxBase>
+          <OtherTaxBase>87950.45</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>10554.05</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>M2000-KOREK MMT001 REFILLABLE BBQ 1 Karton Isi 4 Box X 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>27657.66</Price>
+          <Qty>3</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>82972.97</TaxBase>
+          <OtherTaxBase>76058.56</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>9127.03</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-01</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00008.310826.91 | 2026-09-01 | BPIGT01 | 13788080</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5103020505880015</BuyerDocumentNumber>
+      <BuyerName>IMADE KUSUMA WARDANAST.MT</BuyerName>
+      <BuyerAdress>JL RAMA NO 8 BR PANDE</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-CS-002 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>1310.81</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>65540.54</TaxBase>
+          <OtherTaxBase>60078.83</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>7209.46</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>M2000-M09JF KOREK JET FLAME 1 Carton isi 20 Box X 50 pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>3153.15</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>157657.66</TaxBase>
+          <OtherTaxBase>144519.52</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>17342.34</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>M2000-KOREK MKL007 REFILLABLE BBQ 1 Karton Isi 4 Box X 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>18018.02</Price>
+          <Qty>3</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>54054.05</TaxBase>
+          <OtherTaxBase>49549.55</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>5945.95</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-MKL002 KOREK 1 Carton isi 6 Box X 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>13513.51</Price>
+          <Qty>3</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>40540.54</TaxBase>
+          <OtherTaxBase>37162.16</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>4459.46</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>15990.99</Price>
+          <Qty>6</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>95945.95</TaxBase>
+          <OtherTaxBase>87950.45</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>10554.05</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-01</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00010.310826.91 | 2026-09-01 | BPIGT01 | 13788081</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5103021405970007</BuyerDocumentNumber>
+      <BuyerName>I MADE BASKARA ADI</BuyerName>
+      <BuyerAdress>BR. TEGAL MARUNGAN</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 200 S POP UP - 96 PACK</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2965.47</Price>
+          <Qty>12</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>35585.59</TaxBase>
+          <OtherTaxBase>32620.12</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>3914.41</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 200 S (G) - 48 PACK</Name>
+          <Unit>UM.0022</Unit>
+          <Price>5855.86</Price>
+          <Qty>12</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>70270.27</TaxBase>
+          <OtherTaxBase>64414.41</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>7729.73</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-CS-002 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>1310.81</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>65540.54</TaxBase>
+          <OtherTaxBase>60078.83</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>7209.46</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>M2000-KOREK MMT001 REFILLABLE BBQ 1 Karton Isi 4 Box X 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>27657.66</Price>
+          <Qty>3</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>82972.97</TaxBase>
+          <OtherTaxBase>76058.56</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>9127.03</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0021</Unit>
+          <Price>383783.78</Price>
+          <Qty>1</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>383783.78</TaxBase>
+          <OtherTaxBase>351801.80</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>42216.22</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 250 S (TM) - 48 PACK</Name>
+          <Unit>UM.0022</Unit>
+          <Price>6756.76</Price>
+          <Qty>6</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>40540.54</TaxBase>
+          <OtherTaxBase>37162.16</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>4459.46</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>1909.91</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>95495.50</TaxBase>
+          <OtherTaxBase>87537.54</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>10504.50</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-01</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00011.310826.91 | 2026-09-01 | BPIMT02 | 13788082</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5171026010730002</BuyerDocumentNumber>
+      <BuyerName>NI MADE SUDASNING</BuyerName>
+      <BuyerAdress>PENATIH DANGIN PURI</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 250 S (TM) - 48 PACK</Name>
+          <Unit>UM.0022</Unit>
+          <Price>6306.31</Price>
+          <Qty>10</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>63063.06</TaxBase>
+          <OtherTaxBase>57807.81</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>6936.94</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 70S TRAVEL UKURAN 17.5cm X 19cm (40PCS/CTN)</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2162.16</Price>
+          <Qty>10</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>21621.62</TaxBase>
+          <OtherTaxBase>19819.82</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>2378.38</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00012.310826.91 | 2026-09-02 | BPIMT02 | D16027</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0729165498903000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>PT. ADIKARYA PANGAN FRESHINDO</BuyerName>
+      <BuyerAdress>JL TUNJUNG SARI NO. 7X PADANG SAMBIAN KAJA, DENPASAR BARAT KOTA DENPASAR BALI</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0729165498903000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000 KOREK BBQ LIGHTER M-1168 ZET 1 Carton isi 12 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>6486.49</Price>
+          <Qty>150</Qty>
+          <TotalDiscount>9729.73</TotalDiscount>
+          <TaxBase>963243.24</TaxBase>
+          <OtherTaxBase>882972.97</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>105956.76</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00013.310826.91 | 2026-09-02 | BPIMT02 | D15727</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0729165498903000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>PT. ADIKARYA PANGAN FRESHINDO</BuyerName>
+      <BuyerAdress>JL TUNJUNG SARI NO. 7X PADANG SAMBIAN KAJA, DENPASAR BARAT KOTA DENPASAR BALI</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0729165498903000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>M-TECH MCL-003 CHAIN LUBE 24X300ML</Name>
+          <Unit>UM.0022</Unit>
+          <Price>25225.23</Price>
+          <Qty>7</Qty>
+          <TotalDiscount>1765.77</TotalDiscount>
+          <TaxBase>174810.81</TaxBase>
+          <OtherTaxBase>160243.24</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>19229.19</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-01</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00014.310826.91 | 2026-09-01 | BPIGT01 | 13788085</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5103050907900002</BuyerDocumentNumber>
+      <BuyerName>I PUTU AGUS YULIANTARA</BuyerName>
+      <BuyerAdress>BR. SULUBAN PECATU</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 250 S (TM) - 48 PACK</Name>
+          <Unit>UM.0022</Unit>
+          <Price>6756.76</Price>
+          <Qty>24</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>162162.15</TaxBase>
+          <OtherTaxBase>148648.64</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>17837.84</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-01</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00015.310826.91 | 2026-09-01 | BPIMT02 | TH8Q05636</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0013379946092000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>PT. INDOMARCO PRISMATAMA</BuyerName>
+      <BuyerAdress>GEDUNG MENARA INDOMARET, JL. BOULEVARD PANTAI INDAH KAPUK, KAMAL MUARA, PENJARINGAN, KOTA ADM. JAKARTA UTARA, DKI JAKARTA, 14470</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0013379946092000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>M2000-MN-942SP.IDM - KOREK M2000 MN-942 SP INDOMARET 1 Karton isi 10 Box X 50 pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>4605.26</Price>
+          <Qty>750</Qty>
+          <TotalDiscount>828946.78</TotalDiscount>
+          <TaxBase>2624998.15</TaxBase>
+          <OtherTaxBase>2406248.30</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>288749.80</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00002.010926.91 | 2026-09-02 | BPIMT02 | 13788087</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0937342467903000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>CV. IWAKA DARMA JAYA</BuyerName>
+      <BuyerAdress>JL. PULAU GALANG NO 38, PEMOGAN, DENPASAR SELATAN, KOTA DENPASAR, BALI, 80221</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0937342467903000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>16666.67</Price>
+          <Qty>96</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>1600000.00</TaxBase>
+          <OtherTaxBase>1466666.67</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>176000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2162.16</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>108108.11</TaxBase>
+          <OtherTaxBase>99099.10</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>11891.89</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2342.34</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>117117.12</TaxBase>
+          <OtherTaxBase>107357.36</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>12882.88</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000 MN-942 MBL KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2612.61</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>130630.63</TaxBase>
+          <OtherTaxBase>119744.74</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>14369.37</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00003.010926.91 | 2026-09-02 | BPIMT02 | 13788088</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0937342467903000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>CV. IWAKA DARMA JAYA</BuyerName>
+      <BuyerAdress>JL. PULAU GALANG NO 38, PEMOGAN, DENPASAR SELATAN, KOTA DENPASAR, BALI, 80221</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0937342467903000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>16666.67</Price>
+          <Qty>72</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>1200000.00</TaxBase>
+          <OtherTaxBase>1100000.00</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>132000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2342.34</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>117117.12</TaxBase>
+          <OtherTaxBase>107357.36</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>12882.88</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2162.16</Price>
+          <Qty>100</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>216216.22</TaxBase>
+          <OtherTaxBase>198198.20</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>23783.78</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000 MN-942 MBL KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2612.61</Price>
+          <Qty>100</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>261261.26</TaxBase>
+          <OtherTaxBase>239489.49</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>28738.74</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00004.010926.91 | 2026-09-02 | BPIMT02 | 13788089</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0937342467903000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>CV. IWAKA DARMA JAYA</BuyerName>
+      <BuyerAdress>JL. PULAU GALANG NO 38, PEMOGAN, DENPASAR SELATAN, KOTA DENPASAR, BALI, 80221</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0937342467903000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2342.34</Price>
+          <Qty>100</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>234234.23</TaxBase>
+          <OtherTaxBase>214714.71</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>25765.77</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2162.16</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>108108.11</TaxBase>
+          <OtherTaxBase>99099.10</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>11891.89</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000 MN-942 MBL KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2612.61</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>130630.63</TaxBase>
+          <OtherTaxBase>119744.74</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>14369.37</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>16666.67</Price>
+          <Qty>48</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>800000.00</TaxBase>
+          <OtherTaxBase>733333.33</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>88000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00005.010926.91 | 2026-09-02 | BPIMT02 | 13788090</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0937342467903000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>CV. IWAKA DARMA JAYA</BuyerName>
+      <BuyerAdress>JL. PULAU GALANG NO 38, PEMOGAN, DENPASAR SELATAN, KOTA DENPASAR, BALI, 80221</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0937342467903000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>16666.67</Price>
+          <Qty>24</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>400000.00</TaxBase>
+          <OtherTaxBase>366666.67</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>44000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2342.34</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>117117.12</TaxBase>
+          <OtherTaxBase>107357.36</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>12882.88</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2162.16</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>108108.11</TaxBase>
+          <OtherTaxBase>99099.10</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>11891.89</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000 MN-942 MBL KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2612.61</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>130630.63</TaxBase>
+          <OtherTaxBase>119744.74</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>14369.37</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00006.010926.91 | 2026-09-02 | BPIMT02 | 13788091</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0937342467903000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>CV. IWAKA DARMA JAYA</BuyerName>
+      <BuyerAdress>JL. PULAU GALANG NO 38, PEMOGAN, DENPASAR SELATAN, KOTA DENPASAR, BALI, 80221</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0937342467903000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>16666.67</Price>
+          <Qty>48</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>800000.00</TaxBase>
+          <OtherTaxBase>733333.33</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>88000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2342.34</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>117117.12</TaxBase>
+          <OtherTaxBase>107357.36</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>12882.88</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2162.16</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>108108.11</TaxBase>
+          <OtherTaxBase>99099.10</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>11891.89</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000 MN-942 MBL KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2612.61</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>130630.63</TaxBase>
+          <OtherTaxBase>119744.74</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>14369.37</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00007.010926.91 | 2026-09-02 | BPIMT02 | 13788092</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0937342467903000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>CV. IWAKA DARMA JAYA</BuyerName>
+      <BuyerAdress>JL. PULAU GALANG NO 38, PEMOGAN, DENPASAR SELATAN, KOTA DENPASAR, BALI, 80221</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0937342467903000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2342.34</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>117117.12</TaxBase>
+          <OtherTaxBase>107357.36</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>12882.88</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2162.16</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>108108.11</TaxBase>
+          <OtherTaxBase>99099.10</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>11891.89</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00008.010926.91 | 2026-09-02 | BPIMT02 | 13788093</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0937342467903000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>CV. IWAKA DARMA JAYA</BuyerName>
+      <BuyerAdress>JL. PULAU GALANG NO 38, PEMOGAN, DENPASAR SELATAN, KOTA DENPASAR, BALI, 80221</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0937342467903000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2342.34</Price>
+          <Qty>100</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>234234.23</TaxBase>
+          <OtherTaxBase>214714.71</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>25765.77</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2162.16</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>108108.11</TaxBase>
+          <OtherTaxBase>99099.10</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>11891.89</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000 MN-942 MBL KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2612.61</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>130630.63</TaxBase>
+          <OtherTaxBase>119744.74</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>14369.37</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00009.010926.91 | 2026-09-02 | BPIMT02 | 13788094</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0937342467903000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>CV. IWAKA DARMA JAYA</BuyerName>
+      <BuyerAdress>JL. PULAU GALANG NO 38, PEMOGAN, DENPASAR SELATAN, KOTA DENPASAR, BALI, 80221</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0937342467903000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>16666.67</Price>
+          <Qty>48</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>800000.00</TaxBase>
+          <OtherTaxBase>733333.33</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>88000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2342.34</Price>
+          <Qty>100</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>234234.23</TaxBase>
+          <OtherTaxBase>214714.71</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>25765.77</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000 MN-942 MBL KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2612.61</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>130630.63</TaxBase>
+          <OtherTaxBase>119744.74</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>14369.37</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2162.16</Price>
+          <Qty>100</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>216216.22</TaxBase>
+          <OtherTaxBase>198198.20</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>23783.78</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00010.010926.91 | 2026-09-02 | BPIMT02 | 13788095</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0937342467903000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>CV. IWAKA DARMA JAYA</BuyerName>
+      <BuyerAdress>JL. PULAU GALANG NO 38, PEMOGAN, DENPASAR SELATAN, KOTA DENPASAR, BALI, 80221</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0937342467903000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>16666.67</Price>
+          <Qty>24</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>400000.00</TaxBase>
+          <OtherTaxBase>366666.67</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>44000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2342.34</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>117117.12</TaxBase>
+          <OtherTaxBase>107357.36</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>12882.88</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2162.16</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>108108.11</TaxBase>
+          <OtherTaxBase>99099.10</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>11891.89</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00011.010926.91 | 2026-09-02 | BPIMT02 | 13788096</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0937342467903000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>CV. IWAKA DARMA JAYA</BuyerName>
+      <BuyerAdress>JL. PULAU GALANG NO 38, PEMOGAN, DENPASAR SELATAN, KOTA DENPASAR, BALI, 80221</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0937342467903000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>16666.67</Price>
+          <Qty>48</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>800000.00</TaxBase>
+          <OtherTaxBase>733333.33</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>88000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2162.16</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>108108.11</TaxBase>
+          <OtherTaxBase>99099.10</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>11891.89</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000 MN-942 MBL KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2612.61</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>130630.63</TaxBase>
+          <OtherTaxBase>119744.74</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>14369.37</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2342.34</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>117117.12</TaxBase>
+          <OtherTaxBase>107357.36</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>12882.88</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00012.010926.91 | 2026-09-02 | BPIMT02 | 13788097</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5171021303690003</BuyerDocumentNumber>
+      <BuyerName>I NYOMAN MARGA</BuyerName>
+      <BuyerAdress>KESIMAN, DENPASAR TIMUR</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0021</Unit>
+          <Price>400000.00</Price>
+          <Qty>1</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>400000.00</TaxBase>
+          <OtherTaxBase>366666.67</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>44000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000-MRL-002L REFILL GAS KOREK 1 Carton isi 48 pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>13063.06</Price>
+          <Qty>3</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>39189.19</TaxBase>
+          <OtherTaxBase>35923.42</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>4310.81</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 200 S POP UP - 96 PACK</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2965.47</Price>
+          <Qty>6</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>17792.79</TaxBase>
+          <OtherTaxBase>16310.06</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>1957.21</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00013.010926.91 | 2026-09-02 | BPIMT02 | 13788098</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5171034907810003</BuyerDocumentNumber>
+      <BuyerName>yannie rosaline Ahmad</BuyerName>
+      <BuyerAdress>jl. lempuyang no .21</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>16666.67</Price>
+          <Qty>6</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>100000.00</TaxBase>
+          <OtherTaxBase>91666.67</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>11000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000 MN-942 MBL KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2612.61</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>130630.63</TaxBase>
+          <OtherTaxBase>119744.74</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>14369.37</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00014.010926.91 | 2026-09-02 | BPIGT01 | 13788100</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5103034204870004</BuyerDocumentNumber>
+      <BuyerName>NI KADEK WIWIK WIJAYANTI</BuyerName>
+      <BuyerAdress>BR BATANBUAH</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2000.00</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>100000.00</TaxBase>
+          <OtherTaxBase>91666.67</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>11000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00015.010926.91 | 2026-09-02 | BPIMT01 | 31005</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0930269550905000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>SURYA MAS ABADI</BuyerName>
+      <BuyerAdress>JL RAYA LEGIAN, 478, LEGIAN,KUTA KAB.BADUNG,BALI,80361</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0930269550905000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0021</Unit>
+          <Price>400000.00</Price>
+          <Qty>1</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>400000.00</TaxBase>
+          <OtherTaxBase>366666.67</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>44000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00016.010926.91 | 2026-09-02 | BPIMT01 | 13788102</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0744114711905000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>CV. CAHAYA DEWATA</BuyerName>
+      <BuyerAdress>JALAN NUANSA UDAYANA I-10 LINK. TAMAN GRIYAJIMBARAN KUTA SELATANBADUNG BALI</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0744114711905000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0021</Unit>
+          <Price>421621.62</Price>
+          <Qty>1</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>421621.62</TaxBase>
+          <OtherTaxBase>386486.49</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>46378.38</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2342.34</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>117117.12</TaxBase>
+          <OtherTaxBase>107357.36</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>12882.88</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2162.16</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>108108.11</TaxBase>
+          <OtherTaxBase>99099.10</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>11891.89</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-CS-002 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>1396.40</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>69819.82</TaxBase>
+          <OtherTaxBase>64001.50</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>7680.18</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00001.010926.91 | 2026-09-02 | BPIMT01 | 28294</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0020468369904000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>PT. Sentral Retailindo Dewata</BuyerName>
+      <BuyerAdress>Jl. Kediri No. 36 A , Tuban Kuta - Badung  80361</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0020468369904000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0021</Unit>
+          <Price>454054.05</Price>
+          <Qty>2</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>908108.11</TaxBase>
+          <OtherTaxBase>832432.43</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>99891.89</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00017.010926.91 | 2026-09-02 | BPIGT01 | 13788104</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5103040901710002</BuyerDocumentNumber>
+      <BuyerName>I NYOMAN PUTRA SAPTAH</BuyerName>
+      <BuyerAdress>BR PUNDUNG PANGSAN PETANG</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>15990.99</Price>
+          <Qty>6</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>95945.95</TaxBase>
+          <OtherTaxBase>87950.45</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>10554.05</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000 MN-942 MBL KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>1819.82</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>90990.99</TaxBase>
+          <OtherTaxBase>83408.41</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>10009.01</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>1909.91</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>95495.50</TaxBase>
+          <OtherTaxBase>87537.54</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>10504.50</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2000.00</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>100000.00</TaxBase>
+          <OtherTaxBase>91666.67</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>11000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-CS-001 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>1171.17</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>58558.56</TaxBase>
+          <OtherTaxBase>53678.68</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>6441.44</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00018.010926.91 | 2026-09-02 | BPIGT01 | 13788105</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5103044912860003</BuyerDocumentNumber>
+      <BuyerName>NU LUH PUTU WIDI LESTARI</BuyerName>
+      <BuyerAdress>BR. PELAGA DESA PELAGA</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>15990.99</Price>
+          <Qty>6</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>95945.95</TaxBase>
+          <OtherTaxBase>87950.45</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>10554.05</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-07MINI KOREK 1 Carton isi 10 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2000.00</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>100000.00</TaxBase>
+          <OtherTaxBase>91666.67</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>11000.00</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>M2000 MN-942SP KOREK 1 Carton isi 10 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>4774.77</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>238738.74</TaxBase>
+          <OtherTaxBase>218843.84</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>26261.26</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-CS-001 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>1310.81</Price>
+          <Qty>100</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>131081.08</TaxBase>
+          <OtherTaxBase>120157.66</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>14418.92</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-CS-002 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>1310.81</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>65540.54</TaxBase>
+          <OtherTaxBase>60078.83</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>7209.46</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>M2000-M09JF KOREK JET FLAME 1 Carton isi 20 Box X 50 pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>3153.15</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>157657.66</TaxBase>
+          <OtherTaxBase>144519.52</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>17342.34</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 200 S (G) - 48 PACK</Name>
+          <Unit>UM.0022</Unit>
+          <Price>5855.86</Price>
+          <Qty>12</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>70270.27</TaxBase>
+          <OtherTaxBase>64414.41</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>7729.73</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 250 S (TM) - 48 PACK</Name>
+          <Unit>UM.0022</Unit>
+          <Price>6756.76</Price>
+          <Qty>12</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>81081.07</TaxBase>
+          <OtherTaxBase>74324.32</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>8918.92</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 70S TRAVEL UKURAN 17.5cm X 19cm (40PCS/CTN)</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2162.16</Price>
+          <Qty>12</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>25945.95</TaxBase>
+          <OtherTaxBase>23783.78</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>2854.05</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000 KOREK BBQ LIGHTER M-1168 ZET 1 Carton isi 12 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>5270.27</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>263513.51</TaxBase>
+          <OtherTaxBase>241554.05</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>28986.49</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 200 S POP UP - 96 PACK</Name>
+          <Unit>UM.0022</Unit>
+          <Price>2965.47</Price>
+          <Qty>12</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>35585.59</TaxBase>
+          <OtherTaxBase>32620.12</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>3914.41</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000-MRL-002L REFILL GAS KOREK 1 Carton isi 48 pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>12162.16</Price>
+          <Qty>3</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>36486.49</TaxBase>
+          <OtherTaxBase>33445.95</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>4013.51</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00019.010926.91 | 2026-09-02 | BPIGT01 | 13788106</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5103041909910003</BuyerDocumentNumber>
+      <BuyerName>MOHAMAD SUHAIMI</BuyerName>
+      <BuyerAdress>BR. ANGAN TIGA PETANG</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 250 S (TM) - 48 PACK</Name>
+          <Unit>UM.0021</Unit>
+          <Price>324324.30</Price>
+          <Qty>1</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>324324.30</TaxBase>
+          <OtherTaxBase>297297.27</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>35675.67</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-CS-001 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>1310.81</Price>
+          <Qty>200</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>262162.16</TaxBase>
+          <OtherTaxBase>240315.32</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>28837.84</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-PL-322 WIB KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>1216.22</Price>
+          <Qty>150</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>182432.43</TaxBase>
+          <OtherTaxBase>167229.73</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>20067.57</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00020.010926.91 | 2026-09-02 | BPIMT02 | D16381</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0729165498903000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>PT. ADIKARYA PANGAN FRESHINDO</BuyerName>
+      <BuyerAdress>JL TUNJUNG SARI NO. 7X PADANG SAMBIAN KAJA, DENPASAR BARAT KOTA DENPASAR BALI</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0729165498903000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000-MRL-002L REFILL GAS KOREK 1 Carton isi 48 pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>13063.06</Price>
+          <Qty>36</Qty>
+          <TotalDiscount>4702.70</TotalDiscount>
+          <TaxBase>465567.57</TaxBase>
+          <OtherTaxBase>426770.27</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>51212.43</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>M2000-VELG CLEANER 650ML ISI 12 PCS</Name>
+          <Unit>UM.0022</Unit>
+          <Price>31176.58</Price>
+          <Qty>24</Qty>
+          <TotalDiscount>7482.38</TotalDiscount>
+          <TaxBase>740755.46</TaxBase>
+          <OtherTaxBase>679025.84</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>81483.10</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00021.010926.91 | 2026-09-02 | BPIGT01 | 13788108</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0000000000000000</BuyerTin>
+      <BuyerDocument>National ID</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>5103035206900004</BuyerDocumentNumber>
+      <BuyerName>NI LUH PUTU EKA PASTARI</BuyerName>
+      <BuyerAdress>BR. KERAMAN</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code></Code>
+          <Name>TISSUE BIORS 250 S (TM) - 48 PACK</Name>
+          <Unit>UM.0021</Unit>
+          <Price>302702.70</Price>
+          <Qty>3</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>908108.11</TaxBase>
+          <OtherTaxBase>832432.43</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>99891.89</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>360500</Code>
+          <Name>M2000-08 KOREK 1 Carton isi 20 Box X 50 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>4504.50</Price>
+          <Qty>50</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>225225.23</TaxBase>
+          <OtherTaxBase>206456.46</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>24774.77</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+    <TaxInvoice>
+      <TaxInvoiceDate>2026-09-02</TaxInvoiceDate>
+      <TaxInvoiceOpt>Normal</TaxInvoiceOpt>
+      <TrxCode>04</TrxCode>
+      <AddInfo></AddInfo>
+      <CustomDoc></CustomDoc>
+      <RefDesc>00023.010926.91 | 2026-09-02 | BPIMT01 | 60494</RefDesc>
+      <FacilityStamp></FacilityStamp>
+      <SellerIDTKU>1000000006727026000000</SellerIDTKU>
+      <BuyerTin>0019900273904000</BuyerTin>
+      <BuyerDocument>TIN</BuyerDocument>
+      <BuyerCountry>IDN</BuyerCountry>
+      <BuyerDocumentNumber>-</BuyerDocumentNumber>
+      <BuyerName>PT BALI PAWIWAHAN</BuyerName>
+      <BuyerAdress>JL. BATUR RAYA, LINGKUNGAN TAMAN GRIYA, 33, JIMBARAN, KUTA SELATAN, KAB. BADUNG, BALI, 80363</BuyerAdress>
+      <BuyerEmail></BuyerEmail>
+      <BuyerIDTKU>0019900273904000000000</BuyerIDTKU>
+      <ListOfGoodService>
+        <GoodService>
+          <Opt>A</Opt>
+          <Code>271100</Code>
+          <Name>M2000 MRC-001 Refill Gas Kompor Portable isi 24 Pcs</Name>
+          <Unit>UM.0022</Unit>
+          <Price>18918.92</Price>
+          <Qty>60</Qty>
+          <TotalDiscount>0.00</TotalDiscount>
+          <TaxBase>1135135.14</TaxBase>
+          <OtherTaxBase>1040540.54</OtherTaxBase>
+          <VATRate>12</VATRate>
+          <VAT>124864.86</VAT>
+          <STLGRate>0</STLGRate>
+          <STLG>0</STLG>
+        </GoodService>
+      </ListOfGoodService>
+    </TaxInvoice>
+  </ListOfTaxInvoice>
+</TaxInvoiceBulk>
